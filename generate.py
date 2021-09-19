@@ -52,6 +52,7 @@ def create_tex(lyrics, chords, title):
 
 def gen_songs():
     for file in [file for file in listdir(workDir) if file.endswith(".txt")]:
+        transformTxt(file)
         lyrics = []
         chords = []
         for line in open(workDir + file, "r").readlines():
@@ -63,7 +64,6 @@ def gen_songs():
                 chords.append(line)
         
         create_tex(lyrics, chords, file[:-4])
-        transformTxt(file)
 
 
 def transformTxt(file):
