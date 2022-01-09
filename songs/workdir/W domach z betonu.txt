@@ -4,9 +4,9 @@ Najpierw zdjęłam koszulę, potem trochę tańczyłam                  :: e G h
 I przez chwilę się czułam jak dziewczyny w "świerszczykach"       :: A e C D
 
 +W domach z betonu                                                :: C G h
-+Nie ma wolnej miłości                                            :: A e C D
++Nie ma wolnej miłości                                            :: A e
 +Są stosunki małżeńskie oraz akty nierządne                       :: C G h
-+Casanova tu u nas nie gości                                      :: A e
++Casanova tu u nas nie gości                                      :: A e C D
 
 Ten z przeciwka, co ma kota i rower                               :: e G
 Stał przy oknie nieruchomo jak skała                              :: h A e C D
@@ -14,9 +14,9 @@ Pomyślałam: "To dla ciebie ta rewia                               :: e G h
 Rusz się, przecież nie będę tak stała"                            :: A e C D
 
 +W domach z betonu                                                :: C G h
-+Nie ma wolnej miłości                                            :: A e C D
++Nie ma wolnej miłości                                            :: A e
 +Są stosunki małżeńskie oraz akty nierządne                       :: C G h
-+Casanova tu u nas nie gości                                      :: A e
++Casanova tu u nas nie gości                                      :: A e C D
 
 Po południu zobaczyłam go w sklepie                               :: e G
 Patrzył we mnie jak w jakiś obrazek                               :: h A e C D
@@ -24,6 +24,6 @@ Ruchem głowy pokazał mi okno                                      :: e G h
 Więc ten wieczór spędzimy znów razem                              :: A e C D
 
 +W domach z betonu                                                :: C G h
-+Nie ma wolnej miłości                                            :: A e C D
++Nie ma wolnej miłości                                            :: A e
 +Są stosunki małżeńskie oraz akty nierządne                       :: C G h
-+Casanova tu u nas nie gości                                      :: A e
++Casanova tu u nas nie gości                                      :: A e C D

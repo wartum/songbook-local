@@ -1,24 +1,24 @@
-Biały miś dla dziewczyny,                 :: a d
-Którą kocham i kochał będę wciąż,         :: F E a
-Lecz dziewczyna jest już z innym          :: a d
-I pozostał mi tylko biały miś.            :: F E a
+Biały miś dla dziewczyny,                    :: a d
+Którą kocham i kochał będę wciąż,            :: F E a
+Lecz dziewczyna jest już z innym             :: a d
+I pozostał mi tylko biały miś.               :: F E a
 
-+Hej dziewczyno, spójrz na misia,         :: C G
-+Niech przypomni twego chłopca ci,        :: F G a
-+Nieszczęśliwego małego misia,            :: C G
-+Który w oczach ma tylko białe łzy.       :: F E a
++Hej dziewczyno, spójrz na misia,            :: C G
++Niech przypomni, przypomni chłopca ci,      :: F G a
++Nieszczęśliwego białego misia,              :: C G
++Który w oczach ma tylko białe łzy.          :: F E a
 
-Minął czas, naszych spotkań,              :: a d
-Minął dzień, zaginął biały miś            :: F E a
-I pozostał żal i smutek,                  :: a d
-Po dziewczynie, po misiu i po snach.      :: F E a
+Minął czas, naszych spotkań,                 :: a d
+Minął dzień, zaginął biały miś               :: F E a
+I pozostał żal i smutek,                     :: a d
+Po dziewczynie, po misiu i po snach.         :: F E a
 
-+Hej dziewczyno, spójrz na misia,         :: C G
-+Niech przypomni twego chłopca ci,        :: F G a
-+Nieszczęśliwego małego misia,            :: C G
-+Który w oczach ma tylko białe łzy.       :: F E a
++Hej dziewczyno, spójrz na misia,            :: C G
++Niech przypomni, przypomni chłopca ci,      :: F G a
++Nieszczęśliwego białego misia,              :: C G
++Który w oczach ma tylko białe łzy.          :: F E a
 
-Biały miś, nie kochany,                   :: a d
-Porzucony już dawno w ciemny kąt,         :: F Ea
-Już dziewczyna go nie weźmie,             :: a d
-Nie przytuli do swoich ciepłych rąk.      :: F E a
+Biały miś, nie kochany,                      :: a d
+Porzucony już dawno w ciemny kąt,            :: F Ea
+Już dziewczyna go nie weźmie,                :: a d
+Nie przytuli do swoich ciepłych rąk.         :: F E a
