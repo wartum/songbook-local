@@ -1,29 +1,29 @@
-Znowu ktoś mnie podgląda,                 :: h G A
-Lekko skrobie do drzwi.                   :: h G A
-Strasznym okiem cyklopa,                  :: h G A
-Radzi, gromi i drwi!                      :: h G A
+Znowu ktoś mnie podgląda,                         :: h G A
+Lekko skrobie do drzwi.                           :: h G A
+Strasznym okiem cyklopa,                          :: h G A
+Radzi, gromi i drwi!                              :: h G A
 
-+Mój jest ten kawałek podłogi,            :: D A h G A
-+Nie mówcie mi więc, co mam robić!        :: D A h G A
-+Mój jest ten kawałek podłogi,            :: D A h G A
-+Nie mówcie mi więc, co mam robić!        :: D A h G A
++Mój jest ten kawałek podłogi,                    :: D A h G A
++Nie mówcie mi więc, co mam robić!                :: D A h G A
++Mój jest ten kawałek podłogi,                    :: D A h G A
++Nie mówcie mi więc, co mam robić!                :: D A h G A
 
-Meble już połamałem,                      :: h G A
-Nowy ład zrobić chcę.                     :: h G A
-Tynk ze ścian już zdrapałem,              :: h G A
-Zamurować czas drzwi!                     :: h G A
+Meble już połamałem,                              :: h G A
+Nowy ład zrobić chcę.                             :: h G A
+Tynk ze ścian już zdrapałem,                      :: h G A
+Zamurować czas drzwi!                             :: h G A
 
-+Mój jest ten kawałek podłogi,            :: D A h G A
-+Nie mówcie mi więc, co mam robić!        :: D A h G A
-+Mój jest ten kawałek podłogi,            :: D A h G A
-+Nie mówcie mi więc, co mam robić!        :: D A h G A
++Mój jest ten kawałek podłogi,                    :: D A h G A
++Nie mówcie mi więc, co mam robić!                :: D A h G A
++Mój jest ten kawałek podłogi,                    :: D A h G A
++Nie mówcie mi więc, co mam robić!                :: D A h G A
 
-Wielkie dzieło skończyłem,                :: h G A
-Głód do wyjścia mnie pcha.                :: h G A
-Prężę się i napinam,                      :: h G A
-Lecz mur stoi jak stał.                   :: h G A
+Wielkie dzieło skończyłem,                        :: h G A
+Głód do wyjścia mnie pcha.                        :: h G A
+Prężę się i napinam,                              :: h G A
+Lecz mur stoi jak stał.                           :: h G A
 
-+Mój jest ten kawałek podłogi,            :: D A h G A
-+Nie mówcie mi więc, co mam robić!        :: D A h G A
-+Mój jest ten kawałek podłogi,            :: D A h G A
-+Nie mówcie mi więc, co mam mówić!        :: D A h G A
++Mój jest ten kawałek podłogi,                    :: D A h G A
++Nie mówcie mi więc, co mam robić!                :: D A h G A
++Mój jest ten kawałek podłogi,                    :: D A h G A
++Nie mówcie mi więc, co mam mówić!                :: D A h G A

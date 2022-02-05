@@ -1,0 +1,27 @@
+Czy znasz morza brzeg,                :: F G
+Bez poszumu fal?                      :: C a
+Czy znasz rzeki nurt,                 :: F G
+Co nie płynie w dal?                  :: C a
+Czy znasz? Jeśli nie,                 :: F G
+To dlaczego chcesz zatrzymać          :: C a
+Prąd rzek, szum fal                   :: C G
+Twoje łzy, mój płacz.                 :: C G
+
++Żal nic tu nie pomoże,               :: C e
++Łzy twoje i mój płacz.               :: F G
++Nikt nie uciszy morza,               :: C a
++Nie zatrzyma biegu fal.              :: F G C
+
+Czy znasz taki wiatr,                 :: F G
+Co w bezruch trwa?                    :: C a
+Czy znasz taką noc,                   :: F G
+Która nie ma dna?                     :: C a
+Czy znasz taki dzień,                 :: F G
+Co nie kończy się zmierzchaniem,      :: C a
+Gdy sen ma przyjść,                   :: C G
+Słyszę znów twój głos.                :: C G
+
++Wróć do krainy marzeń,               :: C e
++Gdzie zawsze wiosna trwa.            :: F G
++Spal żółte kalendarze,               :: C a
++Żółte kalendarze spal.               :: F G C

@@ -1,34 +1,34 @@
-Hej bystro woda, bystro wodzicka,            :: A
-Pytało dziewczę o Janicka.                   :: D E A
-Hej lesie ciemny, wirsku zielony,            :: E A
-Ka mój Janicek umilony?                      :: D E A
+Hej bystro woda, bystro wodzicka,             :: A
+Pytało dziewczę o Janicka.                    :: D E A
+Hej lesie ciemny, wirsku zielony,             :: E A
+Ka mój Janicek umilony?                       :: D E A
 
-Hej mój Janicku, miły Janicku,               :: A
-Nie chodź po orawskim chodnicku.             :: D E A
-Hej dość ty żeś już nagnał łowiecek,         :: E A
-Ostań przy dziewczynie kotwiecek!            :: D E A
+Hej mój Janicku, miły Janicku,                :: A
+Nie chodź po orawskim chodnicku.              :: D E A
+Hej dość ty żeś już nagnał łowiecek,          :: E A
+Ostań przy dziewczynie kotwiecek!             :: D E A
 
-Hej, powiadali, hej powiadali,               :: A
-Hej, ze Janicka porubali.                    :: D E A
-Hej porubali go Orawiany,                    :: E A
-Hej, za łowiecki, za barany.                 :: D E A
+Hej, powiadali, hej powiadali,                :: A
+Hej, ze Janicka porubali.                     :: D E A
+Hej porubali go Orawiany,                     :: E A
+Hej, za łowiecki, za barany.                  :: D E A
 
-Hej mówiła ci miły Janicku,                  :: A
-Nie chodź po orawickim chodnicku,            :: D E A
-Hej bo cię te orawskie juhasy                :: E A
-Długie uz hań cekali casy..                  :: D E A
+Hej mówiła ci miły Janicku,                   :: A
+Nie chodź po orawickim chodnicku,             :: D E A
+Hej bo cię te orawskie juhasy                 :: E A
+Długie uz hań cekali casy..                   :: D E A
 
-Hej dziewce slocha, hej dziewce płace:       :: A
-Uz ze Janicka nie obace.                     :: D E A
-U orawskiego zamecku ściany                  :: E A
-Leży Janicek porubany.                       :: D E A
+Hej dziewce slocha, hej dziewce płace:        :: A
+Uz ze Janicka nie obace.                      :: D E A
+U orawskiego zamecku ściany                   :: E A
+Leży Janicek porubany.                        :: D E A
 
-Hej Madziar pije, hej Madziar płaci,         :: A
-Hej u Madziara płacom dzieci,                :: D E A
-Hej płacom dzieci, hej płace żona,           :: E A
-Hej, że Madziara nima doma.                  :: D E A
+Hej Madziar pije, hej Madziar płaci,          :: A
+Hej u Madziara płacom dzieci,                 :: D E A
+Hej płacom dzieci, hej płace żona,            :: E A
+Hej, że Madziara nima doma.                   :: D E A
 
-Hej dolom, dolom, od skalnych Tater,         :: A
-Hej poświstuje halny wiater,                 :: D E A
-Hej poświstuje, hej ciska bidom,             :: E A
-Hej po dolinach chłopcy idom.                :: D E A
+Hej dolom, dolom, od skalnych Tater,          :: A
+Hej poświstuje halny wiater,                  :: D E A
+Hej poświstuje, hej ciska bidom,              :: E A
+Hej po dolinach chłopcy idom.                 :: D E A
