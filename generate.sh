@@ -1,4 +1,55 @@
-#!/bin/sh -u
+#!/bin/sh
+
+OneColumnTransformQueryStr='
+BEGIN {
+	print "\\subsection{" title "}\n\n\\begin{tabular}{l l}\n"
+}
+{
+	sub("[ ]+$", "", $1)
+	sub("^[ ]+", "", $2)
+	gsub("#", "\\#", $2)
+	if (substr($1,1,1) == "+")
+		print "\t\\textbf{" substr($1,2) "}";
+	else if (substr($1,1,3) == "===")
+		print "\t\\end{tabular}\n\t\\newpage\n\t\\begin{tabular}{l l}";
+	else
+		print "\t" $1;
+	print "\t&" $2 "\\\\"
+}
+END {
+	print "\\end{tabular}"
+}'
+
+TwoColumnsTransformQueryStr='
+BEGIN {
+	print "\\subsection{" title "}\n\n\\begin{tabular}{l l}\n"
+}
+{
+	sub("[ ]+$", "", $1)
+	sub("^[ ]+", "", $2)
+	gsub("#", "\\#", $2)
+	if (substr($1,1,1) == "+")
+		print "\t\\textbf{" substr($1,2) "}";
+	else if (substr($1,1,3) == "===")
+		print "\t\\end{tabular}\n\t\\newpage\n\t\\begin{tabular}{l l}";
+	else if (substr($1,1,3) == "---")
+		print "\t\\end{tabular}\n\t\\newpage\n\t\\begin{tabular}{l l}";
+	else
+		print "\t" $1;
+	print "\t&" $2 "\\\\"
+}
+END {
+	print "\\end{tabular}"
+}'
+
+chooseLayoutFn()
+{
+	if grep -q "\-\-\-" "$tex_file_path_str"; then
+		echo "Two Columns"
+	else
+		echo "One Column"
+	fi
+}
 
 transformTxtFn()
 {
@@ -26,25 +77,16 @@ createTexFn()
 	tex_file_name_str=$(echo "${title_str}.tex" | sed "s/ /_/g")
 	tex_file_path_str="./songs/tex/${tex_file_name_str}"
 
-	awk -F '::' -v title="$title_str" '\
-		BEGIN {
-			print "\\subsection{" title "}\n\n\\begin{tabular}{l l}\n"
-		}
-		{
-			sub("[ ]+$", "", $1)
-			sub("^[ ]+", "", $2)
-			gsub("#", "\\#", $2)
-			if (substr($1,1,1) == "+")
-				print "\t\\textbf{" substr($1,2) "}";
-			else if (substr($1,1,3) == "===")
-				print "\t\\end{tabular}\n\t\\newpage\n\t\\begin{tabular}{l l}";
-			else
-				print "\t" $1;
-			print "\t&" $2 "\\\\"
-		}
-		END {
-			print "\\end{tabular}"
-		}' "$1" > "$tex_file_path_str"
+	case "$(chooseLayoutFn)" in
+		"One Column")
+			transform_query_str="$OneColumnTransformQueryStr"
+			;;
+		"Two Columns")
+			transform_query_str="$TwoColumnsTransformQueryStr"
+			;;
+	esac
+
+	awk -F '::' -v title="$title_str" "$transform_query_str" "$1" > "$tex_file_path_str"
 }
 
 genSongsFn()
@@ -73,9 +115,9 @@ getSongbookFn()
 genSongsFn
 getSongbookFn
 
-pdflatex songbook.tex
-pdflatex songbook.tex
-pdflatex songbook.tex
+pdflatex songbook.tex -halt-on-error
+pdflatex songbook.tex -halt-on-error
+pdflatex songbook.tex -halt-on-error
 rm ./*.aux
 rm ./*.log
 rm ./*.toc
