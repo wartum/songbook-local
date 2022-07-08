@@ -11,7 +11,7 @@ I dlaczego tak okrutnie śmiejesz się?                :: G a
 Biała suknia, czarny włos, nie uwierzę,              :: E a d
 Że przychodzisz tu co ranek, budzisz mnie.           :: G a
 Przestań już dręczyć mnie i nie powtarzaj,           :: E a d
-Lepiej odejdź stąd i spokój mi daj.                  :: G a
+Lepiej odejdź stąd daleko, spokój daj.               :: G a
 
 +Czemu ty dręczysz mnie, córko grabarza?             :: E a d
 +Świeże kwiaty wciąż przynosisz do mnie tu.          :: G a

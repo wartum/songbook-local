@@ -1,3 +1,9 @@
 songs/tex
 songbook.tex
 songbook.pdf
+*.aux
+*.log
+*.out
+*.toc
+.idea
+.vs 
