@@ -1,35 +1,35 @@
-Nie pytam panią o lata                     :: d
-I Pana nie pytam też                       :: g
-Zresztą jakie to ma znaczenie              :: g
-Każdy będzie miał nowy wiek                :: A7 A d
-Najlepsze dopiero przed nami               :: d
-Świat dobry jak dobry sen                  :: g
-Więc śpieszmy się z toastami               :: g
-Ten toast odmłodzi Cię                     :: A7 A d
+Nie pytam panią o lata                   :: d
+I Pana nie pytam też                     :: g
+Zresztą jakie to ma znaczenie            :: g
+Każdy będzie miał nowy wiek              :: A7 A d
+Najlepsze dopiero przed nami             :: d
+Świat dobry jak dobry sen                :: g
+Więc śpieszmy się z toastami             :: g
+Ten toast odmłodzi Cię                   :: A7 A d
 
-+Za młodzi na sen                          :: d
-+Za starzy na grzech                       :: g
-+Wypijmy przy stole                        :: g A7
-+By tu na dole źle nie działo się          :: A d
-+Za młodzi na sen                          :: d
-+Za starzy na grzech                       :: g
-+Wypijmy przy stole                        :: g A7
-+Za błędy na dole by ich było mniej        :: A d
++Za młodzi na sen                        :: d
++Za starzy na grzech                     :: g
++Wypijmy przy stole                      :: g A7
++By tu na dole źle nie działo się        :: A d
++Za młodzi na sen                        :: d
++Za starzy na grzech                     :: g
++Wypijmy przy stole                      :: g A7
++Za błędy na dole by ich było mniej      :: A d
 
-Nie pijmy za błędy na górze                :: d
-Tam nie zmienia się nic mimo lat           :: g
-Znasz prawdę o głowie i murze              :: g
-Daj spokój za piękny świat                 :: A7 A d
-Nie dajmy się też zwariować                :: d
-A gdy jest naprawdę źle                    :: g
-Pod dach przyjaciół się schowaj            :: g
-I ten toast z nami wznieś                  :: A7 A d
+Nie pijmy za błędy na górze              :: d
+Tam nie zmienia się nic mimo lat         :: g
+Znasz prawdę o głowie i murze            :: g
+Daj spokój za piękny świat               :: A7 A d
+Nie dajmy się też zwariować              :: d
+A gdy jest naprawdę źle                  :: g
+Pod dach przyjaciół się schowaj          :: g
+I ten toast z nami wznieś                :: A7 A d
 
-+Za młodzi na sen                          :: d
-+Za starzy na grzech                       :: g
-+Wypijmy przy stole                        :: g A7
-+By tu na dole źle nie działo się          :: A d
-+Za młodzi na sen                          :: d
-+Za starzy na grzech                       :: g
-+Wypijmy przy stole                        :: g A7
-+Za błędy na dole by ich było mniej        :: A d
++Za młodzi na sen                        :: d
++Za starzy na grzech                     :: g
++Wypijmy przy stole                      :: g A7
++By tu na dole źle nie działo się        :: A d
++Za młodzi na sen                        :: d
++Za starzy na grzech                     :: g
++Wypijmy przy stole                      :: g A7
++Za błędy na dole by ich było mniej      :: A d

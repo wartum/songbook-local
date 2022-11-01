@@ -1,23 +1,23 @@
-Wschodami gwiazd i zachodami,                                               :: G
-Odmierzam czas liści kolorami                                               :: e
-Odmierzam czas nie używając dat                                             :: a7 D7 G
-Czekaniem na niespodziewane,                                                :: G
-Straconych szans rozpamiętywaniem                                           :: e
-Odmierzam czas, nie używając dat                                            :: a7 D7 G D
+Wschodami gwiazd i zachodami,                                        :: G
+Odmierzam czas liści kolorami                                        :: e
+Odmierzam czas nie używając dat                                      :: a7 D7 G
+Czekaniem na niespodziewane,                                         :: G
+Straconych szans rozpamiętywaniem                                    :: e
+Odmierzam czas, nie używając dat                                     :: a7 D7 G D
 
-+Nie liczę godzin i lat, to życie mija nie ja                               :: e a7 e a7
-+Bliżej gwiazd, bliżej dna jestem wciąż taki sam, wciąż ten sam             :: G A7 D
-+Nie liczę godzin i lat, to życie mija nie ja                               :: e a7 e a7
-+Z kilku dni w morzu dat własny swój znaczę ślad własny ślad                :: G A7 D
++Nie liczę godzin i lat, to życie mija nie ja                        :: e a7 e a7
++Bliżej gwiazd, bliżej dna jestem wciąż taki sam, wciąż ten sam      :: G A7 D
++Nie liczę godzin i lat, to życie mija nie ja                        :: e a7 e a7
++Z kilku dni w morzu dat własny swój znaczę ślad własny ślad         :: G A7 D
 
-Zużytych słów przesypywaniem,                                               :: G
-Gubieniem dróg i odnajdywaniem                                              :: e
-Odmierzam czas, nie używając dat                                            :: a7 D7 G
-Bez godzin i bez kalendarzy,                                                :: G
-Długością dni i zmiennością zdarzeń                                         :: e
-Odmierzam czas, nie używając dat                                            :: a7 D7 G D
+Zużytych słów przesypywaniem,                                        :: G
+Gubieniem dróg i odnajdywaniem                                       :: e
+Odmierzam czas, nie używając dat                                     :: a7 D7 G
+Bez godzin i bez kalendarzy,                                         :: G
+Długością dni i zmiennością zdarzeń                                  :: e
+Odmierzam czas, nie używając dat                                     :: a7 D7 G D
 
-+Nie liczę godzin i lat, to życie mija nie ja                               :: e a7 e a7
-+Bliżej gwiazd, bliżej dna jestem wciąż taki sam, wciąż ten sam             :: G A7 D
-+Nie liczę godzin i lat, to życie mija nie ja                               :: e a7 e a7
-+Z kilku dni w morzu dat własny swój znaczę ślad własny ślad                :: G A7 D
++Nie liczę godzin i lat, to życie mija nie ja                        :: e a7 e a7
++Bliżej gwiazd, bliżej dna jestem wciąż taki sam, wciąż ten sam      :: G A7 D
++Nie liczę godzin i lat, to życie mija nie ja                        :: e a7 e a7
++Z kilku dni w morzu dat własny swój znaczę ślad własny ślad         :: G A7 D

@@ -1,31 +1,31 @@
-Baśka miała fajny biust,                            :: G a
-Ania – styl, a Zośka – coś, co lubię.               :: C G
-Ela całowała cudnie,                                :: G a
-Nawet tuż po swoim ślubie.                          :: C G
-Z Kaśką można było konie kraść,                     :: G a
-Chociaż wiem,                                       :: C
-Że chciała przeżyć ze mną swój pierwszy raz.        :: G
-Magda – zło, Jolka mnie                             :: G
-Zagłaskałaby na śmierć,                             :: a
-A Agnieszka zdradzała mnie.                         :: C G
+Baśka miała fajny biust,                          :: G a
+Ania – styl, a Zośka – coś, co lubię.             :: C G
+Ela całowała cudnie,                              :: G a
+Nawet tuż po swoim ślubie.                        :: C G
+Z Kaśką można było konie kraść,                   :: G a
+Chociaż wiem,                                     :: C
+Że chciała przeżyć ze mną swój pierwszy raz.      :: G
+Magda – zło, Jolka mnie                           :: G
+Zagłaskałaby na śmierć,                           :: a
+A Agnieszka zdradzała mnie.                       :: C G
 
-+Piękne jak okręt                                   :: C G
-+Pod pełnymi żaglami,                               :: a e 
-+Jak konie w galopie,                               :: C G
-+Jak niebo nad nami.                                :: a e 
++Piękne jak okręt                                 :: C G
++Pod pełnymi żaglami,                             :: a e
++Jak konie w galopie,                             :: C G
++Jak niebo nad nami.                              :: a e
 
-Karolina – w Hollywood,                             :: G a
-Z Aśką nigdy nie było tak samo.                     :: C G
-Ewelina zimna jak lód,                              :: G a
-Więc na noc umówiłem się z Alą.                     :: C G
-Wszystko mógłbym Izie dać,                          :: G a
-Tak jak Oli,                                        :: C
-Ale one wcale nie chciały brać.                     :: G
-Małgorzata – jeden grzech,                          :: G
-Aż onieśmielała mnie,                               :: a
-A Monika była okej.                                 :: C G
+Karolina – w Hollywood,                           :: G a
+Z Aśką nigdy nie było tak samo.                   :: C G
+Ewelina zimna jak lód,                            :: G a
+Więc na noc umówiłem się z Alą.                   :: C G
+Wszystko mógłbym Izie dać,                        :: G a
+Tak jak Oli,                                      :: C
+Ale one wcale nie chciały brać.                   :: G
+Małgorzata – jeden grzech,                        :: G
+Aż onieśmielała mnie,                             :: a
+A Monika była okej.                               :: C G
 
-+Piękne jak okręt                                   :: C G
-+Pod pełnymi żaglami,                               :: a e 
-+Jak konie w galopie,                               :: C G
-+Jak niebo nad nami.                                :: a e 
++Piękne jak okręt                                 :: C G
++Pod pełnymi żaglami,                             :: a e
++Jak konie w galopie,                             :: C G
++Jak niebo nad nami.                              :: a e

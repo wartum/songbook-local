@@ -1,33 +1,33 @@
-+Słuchaj, kiedy śpiewa lud                                  :: C
-+Gdy się u ludzi zbiera gniew                               :: F C
-+Taki jest głos zjadaczy chleba,                            :: a D
-+Gdy kajdanom mówią nie                                     :: G
-+Niechaj jeden serca rytm                                   :: C
-+Zacznie jak werbel w piersi bić                            :: F C
-+A lepsze jutro zbudzi się, kiedy wstanie świt              :: a d G C
++Słuchaj, kiedy śpiewa lud                                 :: C
++Gdy się u ludzi zbiera gniew                              :: F C
++Taki jest głos zjadaczy chleba,                           :: a D
++Gdy kajdanom mówią nie                                    :: G
++Niechaj jeden serca rytm                                  :: C
++Zacznie jak werbel w piersi bić                           :: F C
++A lepsze jutro zbudzi się, kiedy wstanie świt             :: a d G C
 
-Kto chce z nami ruszyć w bój i na krucjatę razem iść        :: a e
-Zobaczy lepszy świat, kto barykady zajmie szczyt            :: d a
-Nie lęka się kul                                            :: F
-Ten, kto wolnym człowiekiem chce być                        :: d G
+Kto chce z nami ruszyć w bój i na krucjatę razem iść       :: a e
+Zobaczy lepszy świat, kto barykady zajmie szczyt           :: d a
+Nie lęka się kul                                           :: F
+Ten, kto wolnym człowiekiem chce być                       :: d G
 
-+Słuchaj, kiedy śpiewa lud                                  :: C
-+Gdy się u ludzi zbiera gniew                               :: F C
-+Taki jest głos zjadaczy chleba,                            :: a D
-+Gdy kajdanom mówią nie                                     :: G
-+Niechaj jeden serca rytm                                   :: C
-+Zacznie jak werbel w piersi bić                            :: F C
-+A lepsze jutro zbudzi się, kiedy wstanie świt              :: a d G C
++Słuchaj, kiedy śpiewa lud                                 :: C
++Gdy się u ludzi zbiera gniew                              :: F C
++Taki jest głos zjadaczy chleba,                           :: a D
++Gdy kajdanom mówią nie                                    :: G
++Niechaj jeden serca rytm                                  :: C
++Zacznie jak werbel w piersi bić                           :: F C
++A lepsze jutro zbudzi się, kiedy wstanie świt             :: a d G C
 
-Kto na szalę rzuci los by tryumfował sztandar nasz          :: a e
-Czas gotować się na śmierć i życie czas w ofierze dać       :: d a
-By krew bohaterów                                           :: F
-Obmyła do czysta ten kraj                                   :: d G
+Kto na szalę rzuci los by tryumfował sztandar nasz         :: a e
+Czas gotować się na śmierć i życie czas w ofierze dać      :: d a
+By krew bohaterów                                          :: F
+Obmyła do czysta ten kraj                                  :: d G
 
-+Słuchaj, kiedy śpiewa lud                                  :: C
-+Gdy się u ludzi zbiera gniew                               :: F C
-+Taki jest głos zjadaczy chleba,                            :: a D
-+Gdy kajdanom mówią nie                                     :: G
-+Niechaj jeden serca rytm                                   :: C
-+Zacznie jak werbel w piersi bić                            :: F C
-+A lepsze jutro zbudzi się, kiedy wstanie świt              :: a d G C
++Słuchaj, kiedy śpiewa lud                                 :: C
++Gdy się u ludzi zbiera gniew                              :: F C
++Taki jest głos zjadaczy chleba,                           :: a D
++Gdy kajdanom mówią nie                                    :: G
++Niechaj jeden serca rytm                                  :: C
++Zacznie jak werbel w piersi bić                           :: F C
++A lepsze jutro zbudzi się, kiedy wstanie świt             :: a d G C

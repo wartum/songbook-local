@@ -1,37 +1,37 @@
-O czym marzy dziewczyna                           :: G h
-Gdy dorastać zaczyna                              :: C G
-Kiedy z pączka zamienia się w kwiat?              :: e h C G
-Kiedy śpi, gdy się ocknie                         :: e h
-Za czym tęskni najmocniej                         :: C G
-Czego chce, aby dał jej świat?                    :: a D7
+O czym marzy dziewczyna                   :: G h
+Gdy dorastać zaczyna                      :: C G
+Kiedy z pączka zamienia się w kwiat?      :: e h C G
+Kiedy śpi, gdy się ocknie                 :: e h
+Za czym tęskni najmocniej                 :: C G
+Czego chce, aby dał jej świat?            :: a D7
 
-+Odrobinę szczęścia w miłości                     :: G D G
-+Odrobinę serca czyjegoś                          :: G D7 G
-+Jedną małą chwilę radości                        :: a D7
-+Przy boku kochanego                              :: C D7
-+Stanąć z nim na ślubnym kobiercu                 :: G D G
-+Nawet łzami zalać się                            :: G G7 C
-+Potem stanąć sercem przy sercu                   :: C G
-+I usłyszeć: "Kocham cię"                         :: a D7 G
++Odrobinę szczęścia w miłości             :: G D G
++Odrobinę serca czyjegoś                  :: G D7 G
++Jedną małą chwilę radości                :: a D7
++Przy boku kochanego                      :: C D7
++Stanąć z nim na ślubnym kobiercu         :: G D G
++Nawet łzami zalać się                    :: G G7 C
++Potem stanąć sercem przy sercu           :: C G
++I usłyszeć: "Kocham cię"                 :: a D7 G
 
-Każda odda z ochotą                               :: G h
-Nawet srebro i złoto                              :: C G
-I brylanty, i wszystko, co ma                     :: e h C G
-Bez namysłu, najszczerzej                         :: e h
-Niech ktoś wszystko zabierze                      :: C G
-W zamian za to niech tylko da...                  :: a D7
+Każda odda z ochotą                       :: G h
+Nawet srebro i złoto                      :: C G
+I brylanty, i wszystko, co ma             :: e h C G
+Bez namysłu, najszczerzej                 :: e h
+Niech ktoś wszystko zabierze              :: C G
+W zamian za to niech tylko da...          :: a D7
 
-+Odrobinę szczęścia w miłości                     :: G D G
-+Odrobinę serca czyjegoś                          :: G D7 G
-+Jedną małą chwilę radości                        :: a D7
-+Przy boku kochanego                              :: C D7
-+Stanąć z nim na ślubnym kobiercu                 :: G D G
-+Nawet łzami zalać się                            :: G G7 C
-+Potem stanąć sercem przy sercu                   :: C G
-+I usłyszeć: "Kocham cię"                         :: a D7 G
++Odrobinę szczęścia w miłości             :: G D G
++Odrobinę serca czyjegoś                  :: G D7 G
++Jedną małą chwilę radości                :: a D7
++Przy boku kochanego                      :: C D7
++Stanąć z nim na ślubnym kobiercu         :: G D G
++Nawet łzami zalać się                    :: G G7 C
++Potem stanąć sercem przy sercu           :: C G
++I usłyszeć: "Kocham cię"                 :: a D7 G
 
-+Stanąć z nim na ślubnym kobiercu                 :: G D G
-+Nawet łzami zalać się                            :: G G7 C
-+Potem stanąć sercem przy sercu                   :: C G
-+I usłyszeć: "Kocham cię"                         :: a D7 G
-+I usłyszeć: "Kocham cię"                         :: a D7 G
++Stanąć z nim na ślubnym kobiercu         :: G D G
++Nawet łzami zalać się                    :: G G7 C
++Potem stanąć sercem przy sercu           :: C G
++I usłyszeć: "Kocham cię"                 :: a D7 G
++I usłyszeć: "Kocham cię"                 :: a D7 G

@@ -1,0 +1,56 @@
+Lekarstwem na zgagę,             :: e
+Promocją w spożywczym,           :: a
+Tramwajem na Pragę,              :: H7
+Napojem odżywczym,               :: e
+Paczką papierosów,               :: e
+Pasztetem kaliskim,              :: a
+Prezentem od losu,               :: H7
+Byłaś dla mnie wszystkim!        :: H7
+
++Byłaś dla mnie wszystakim,      :: e a
++Co się w życiu liczy,           :: D G
++Teraz gdy po wszystakim,        :: e a
++Wszystko jest już niczym.       :: H7 e
+
++Byłaś dla mnie wszystakim,      :: e a
++Co się w życiu liczy,           :: D G
++Teraz gdy po wszystakim,        :: e a
++Wszystko jest już niczym.       :: H7 e
+
+Pierwszą kawą z rana,            :: e
+Krynicą mądrości,                :: a
+Śniegiem po kolana,              :: H7
+Obiektem zazdrości,              :: e
+Poezją, żelazkiem,               :: e
+Danielem Olbrychskim             :: a
+I sielskim obrazkiem,            :: H7
+Byłaś dla mnie wszystkim!        :: H7
+
++Byłaś dla mnie wszystkim,       :: e a
++Co się w życiu liczy,           :: D G
++Teraz gdy po wszystkim,         :: e a
++Wszystko jest już niczym.       :: H7 e
+
++Byłaś dla mnie wszystkim,       :: e a
++Co się w życiu liczy,           :: D G
++Teraz gdy po wszystkim,         :: e a
++Wszystko jest już niczym.       :: H7 e
+
+Ligi mistrzów meczem,            :: e
+Spacerem nad morzem,             :: a
+Pamiątką po diecie,              :: H7
+Snem w technicolorze,            :: e
+Codzienną zachętą                :: e
+Do pobudek niskich,              :: a
+Dziwką oraz świętą,              :: H7
+Byłaś dla mnie wszystkim!        :: H7
+
++Byłaś dla mnie wszystkim,       :: e a
++Co się w życiu liczy,           :: D G
++Teraz gdy po wszystkim,         :: e a
++Wszystko jest już niczym.       :: H7 e
+
++Byłaś dla mnie wszystkim,       :: e a
++Co się w życiu liczy,           :: D G
++Teraz gdy po wszystkim,         :: e a
++Wszystko jest już niczym.       :: H7 e

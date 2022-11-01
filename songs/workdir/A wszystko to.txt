@@ -1,49 +1,49 @@
-Czy wiesz malutka może, jak Ciebie mi brak?          :: C a
-Czy czujesz to, co ja, gdy jestem sam?               :: d G
-Jestem opętany jak w niewoli pies.                   :: C a
-Kto jest temu winien, wiesz?                         :: d G
+Czy wiesz malutka może, jak Ciebie mi brak?       :: C a
+Czy czujesz to, co ja, gdy jestem sam?            :: d G
+Jestem opętany jak w niewoli pies.                :: C a
+Kto jest temu winien, wiesz?                      :: d G
 
-Nie ma takich prostych słów,                         :: a F
-Co oddadzą to, co boli mnie...                       :: G E
-Przeczucie mam, że jednak spyta ktoś:                :: a F
-„Czy ta bajka się nie kończy źle”?                   :: G
+Nie ma takich prostych słów,                      :: a F
+Co oddadzą to, co boli mnie...                    :: G E
+Przeczucie mam, że jednak spyta ktoś:             :: a F
+„Czy ta bajka się nie kończy źle”?                :: G
 
-+A wszystko to, bo ciebie kocham!                    :: C E a G
-+I nie wiem jak bez Ciebie mógłbym żyć!              :: C a G
-+Chodź, pokażę ci, czym moja miłość jest.            :: C E a F
-+Dla ciebie zabije się!                              :: C G C
++A wszystko to, bo ciebie kocham!                 :: C E a G
++I nie wiem jak bez Ciebie mógłbym żyć!           :: C a G
++Chodź, pokażę ci, czym moja miłość jest.         :: C E a F
++Dla ciebie zabije się!                           :: C G C
 
-To tylko zazdrość zżera mnie,                        :: C a
-Zawsze wtedy, kiedy obok Ciebie nie ma mnie.         :: d G
-Raz jestem Doktor Jekyll, raz Mister Hyde.           :: C a
-Transformacja trwa – nie zatrzymam jej!              :: d G
+To tylko zazdrość zżera mnie,                     :: C a
+Zawsze wtedy, kiedy obok Ciebie nie ma mnie.      :: d G
+Raz jestem Doktor Jekyll, raz Mister Hyde.        :: C a
+Transformacja trwa – nie zatrzymam jej!           :: d G
 
-Oko w oko stań. Co za twarz!                         :: a F
-No powiedz! – Boisz się...                           :: G E
-Za późno już, zwalam stąd.                           :: a F
-Będzie lepiej, jak zapomnisz mnie!                   :: G
+Oko w oko stań. Co za twarz!                      :: a F
+No powiedz! – Boisz się...                        :: G E
+Za późno już, zwalam stąd.                        :: a F
+Będzie lepiej, jak zapomnisz mnie!                :: G
 
-+A wszystko to, bo ciebie kocham!                    :: C E a G
-+I nie wiem, jak bez Ciebie mógłbym żyć.             :: C a G
-+Chodź, pokażę ci, czym moja miłość jest.            :: C E a F
-+Dla ciebie zabije się!                              :: C G C
++A wszystko to, bo ciebie kocham!                 :: C E a G
++I nie wiem, jak bez Ciebie mógłbym żyć.          :: C a G
++Chodź, pokażę ci, czym moja miłość jest.         :: C E a F
++Dla ciebie zabije się!                           :: C G C
 
-Zdarza mi się być na haju, wiesz, jak jest.          :: C a
-Dziwne wizje wchodzą, nie pożądasz mnie...           :: d G
-Pragniesz kogoś bardziej – żegnaj więc.              :: C a
-Nie chcesz nic tłumaczyć, no to odwal się!           :: d G
+Zdarza mi się być na haju, wiesz, jak jest.       :: C a
+Dziwne wizje wchodzą, nie pożądasz mnie...        :: d G
+Pragniesz kogoś bardziej – żegnaj więc.           :: C a
+Nie chcesz nic tłumaczyć, no to odwal się!        :: d G
 
-Ochoty nie mam słuchać i stać,                       :: a F
-Na milczenie nie stać mnie.                          :: G E
-Przechodzi nas oboje zimny dreszcz:                  :: a F
-„Czy ta bajka się nie skończy źle”?                  :: G
+Ochoty nie mam słuchać i stać,                    :: a F
+Na milczenie nie stać mnie.                       :: G E
+Przechodzi nas oboje zimny dreszcz:               :: a F
+„Czy ta bajka się nie skończy źle”?               :: G
 
-+A wszystko to, bo ciebie kocham!                    :: C E a G
-+I nie wiem, jak bez Ciebie mógłbym żyć.             :: C a G
-+Chodź, pokażę ci, czym moja miłość jest.            :: C E a F
-+Dla ciebie zabiję się!                              :: C G C
++A wszystko to, bo ciebie kocham!                 :: C E a G
++I nie wiem, jak bez Ciebie mógłbym żyć.          :: C a G
++Chodź, pokażę ci, czym moja miłość jest.         :: C E a F
++Dla ciebie zabiję się!                           :: C G C
 
-+A wszystko to, bo ciebie kocham!                    :: C E a G
-+I nie wiem, jak bez Ciebie mógłbym żyć.             :: C a G
-+Chodź, pokażę ci, czym moja miłość jest.            :: C E a F
-+Dla ciebie zabiję się!                              :: C G C
++A wszystko to, bo ciebie kocham!                 :: C E a G
++I nie wiem, jak bez Ciebie mógłbym żyć.          :: C a G
++Chodź, pokażę ci, czym moja miłość jest.         :: C E a F
++Dla ciebie zabiję się!                           :: C G C

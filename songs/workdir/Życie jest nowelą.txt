@@ -1,29 +1,29 @@
-Jak "Pory roku" Vivaldiego                 :: a
-Zmienia się światło w twoich oczach        :: d
-Powiedz mi życie coś miłego                :: E E7
-Nie pędź tak, proszę, daj odpocząć         :: a A7
+Jak "Pory roku" Vivaldiego               :: a
+Zmienia się światło w twoich oczach      :: d
+Powiedz mi życie coś miłego              :: E E7
+Nie pędź tak, proszę, daj odpocząć       :: a A7
 
-+Życie, życie jest nowelą                  :: d
-+której nigdy nie masz dosyć               :: a
-+Wczoraj biały, biały welon                :: E E7
-+Jutro białe, białe włosy                  :: a A7
++Życie, życie jest nowelą                :: d
++której nigdy nie masz dosyć             :: a
++Wczoraj biały, biały welon              :: E E7
++Jutro białe, białe włosy                :: a A7
 
-+Życie, życie jest nowelą                  :: d
-+Raz przyjazną a raz wrogą                 :: a
-+Czasem chcesz się pożalić                 :: E
-+ale nie masz do kogo                      :: d E a
++Życie, życie jest nowelą                :: d
++Raz przyjazną a raz wrogą               :: a
++Czasem chcesz się pożalić               :: E
++ale nie masz do kogo                    :: d E a
 
-Każda rodzina jest jak drzewo              :: a
-Łamie się chwieje, czas je zmienia         :: d
-Jak w "Porach roku" Vivaldiego             :: E E7
-Szczypta zachwytu, łyk cierpienia          :: a A7
+Każda rodzina jest jak drzewo            :: a
+Łamie się chwieje, czas je zmienia       :: d
+Jak w "Porach roku" Vivaldiego           :: E E7
+Szczypta zachwytu, łyk cierpienia        :: a A7
 
-+Życie, życie jest nowelą,                 :: d
-+której nigdy nie masz dosyć               :: a
-+Wczoraj biały, biały welon                :: E E7
-+Jutro białe, białe włosy                  :: a A7
++Życie, życie jest nowelą,               :: d
++której nigdy nie masz dosyć             :: a
++Wczoraj biały, biały welon              :: E E7
++Jutro białe, białe włosy                :: a A7
 
-+Życie, życie jest nowelą                  :: d
-+Co wciąga jak rzeka                       :: a
-+Chciałbyś dziś znać przyszłość            :: E
-+Lecz musisz poczekać                      :: d E a
++Życie, życie jest nowelą                :: d
++Co wciąga jak rzeka                     :: a
++Chciałbyś dziś znać przyszłość          :: E
++Lecz musisz poczekać                    :: d E a

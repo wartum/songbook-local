@@ -1,29 +1,29 @@
-Niech się książkami doktor para,                    :: d C d
-Nauką diabeł ludzi kusi.                            :: d C A
-Mądrością moją jest gitara, gitara                  :: F C
-I kurze ukochanych ulic.                            :: g A d
+Niech się książkami doktor para,                :: d C d
+Nauką diabeł ludzi kusi.                        :: d C A
+Mądrością moją jest gitara, gitara              :: F C
+I kurze ukochanych ulic.                        :: g A d
 
-Nie dbam o scenę managera,                          :: d C d
-Co może kiedyś mi się zdarzy.                       :: d C A
-Śpiewajcie sobie w jupiterach, jupiterach,          :: F C
-A mnie się dycha w czapce marzy.                    :: g A d
+Nie dbam o scenę managera,                      :: d C d
+Co może kiedyś mi się zdarzy.                   :: d C A
+Śpiewajcie sobie w jupiterach, jupiterach,      :: F C
+A mnie się dycha w czapce marzy.                :: g A d
 
-Nie tęsknie do kawiarni gwarnej,                    :: d C d
-Gdzie nie chcą widzieć dziwolągów.                  :: d C A
-Gardzę zapachem buduarów, buduarów,                 :: F C
-Gdzie panny psocą wśród szezlongów.                 :: g A d
+Nie tęsknie do kawiarni gwarnej,                :: d C d
+Gdzie nie chcą widzieć dziwolągów.              :: d C A
+Gardzę zapachem buduarów, buduarów,             :: F C
+Gdzie panny psocą wśród szezlongów.             :: g A d
 
-Nie nęcą mnie kobiece ciała,                        :: d C d
-Kobieta zdradnym słowem tuli.                       :: d C A
-Kochanką mają jest gitara, gitara,                  :: F C
-I kurze ukochanych ulic.                            :: g A d
+Nie nęcą mnie kobiece ciała,                    :: d C d
+Kobieta zdradnym słowem tuli.                   :: d C A
+Kochanką mają jest gitara, gitara,              :: F C
+I kurze ukochanych ulic.                        :: g A d
 
-Nie jeden raz dostałem cięgi,                       :: d C d
-Bo komuś szczery śpiew przeszkadzał.                :: d C A
-Już mi pisany los włóczęgi,włóczęgi                 :: F C
-Ze śmiercią chyba się dogadał.                      :: g A d
+Nie jeden raz dostałem cięgi,                   :: d C d
+Bo komuś szczery śpiew przeszkadzał.            :: d C A
+Już mi pisany los włóczęgi,włóczęgi             :: F C
+Ze śmiercią chyba się dogadał.                  :: g A d
 
-Niech mnie kto grzebie albo wcale,                  :: d C d
-Hipisa diabli muszą lubić.                          :: d C A
-Do grobu wrzućcie mi gitarę, gitarę,                :: F C
-Garść kurzu z ukochanych ulic.                      :: g A d
+Niech mnie kto grzebie albo wcale,              :: d C d
+Hipisa diabli muszą lubić.                      :: d C A
+Do grobu wrzućcie mi gitarę, gitarę,            :: F C
+Garść kurzu z ukochanych ulic.                  :: g A d

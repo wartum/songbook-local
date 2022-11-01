@@ -1,50 +1,50 @@
-Leżysz wtulona w pościel,                      :: d
-Coś cichutko mruczysz przez sen.               :: a
-Łóżko szerokie, pościel czysta,                :: F
-Za oknem prawie dzień.                         :: A
-A jeszcze niedawno koja,                       :: d
-W niej pachnący rybą koc,                      :: C
-Fale bijące o pokład                           :: F
-I bosmana zdarty głos.                         :: A
+Leżysz wtulona w pościel,                  :: d
+Coś cichutko mruczysz przez sen.           :: a
+Łóżko szerokie, pościel czysta,            :: F
+Za oknem prawie dzień.                     :: A
+A jeszcze niedawno koja,                   :: d
+W niej pachnący rybą koc,                  :: C
+Fale bijące o pokład                       :: F
+I bosmana zdarty głos.                     :: A
 
-+To wszystko było, minęło,                     :: d C
-+Zostało tylko wspomnienie.                    :: G d
-+Już nie poczuję wibracji pokładu,             :: d C
-+Gdy kable grają.                              :: G d
-+Już tylko dom i ogródek i tak                 :: d C
-+Aż do śmierci,                                :: G d
-+A przecież stare żaglowce po morzach          :: d C
-+Jeszcze pływają.                              :: G d
++To wszystko było, minęło,                 :: d C
++Zostało tylko wspomnienie.                :: G d
++Już nie poczuję wibracji pokładu,         :: d C
++Gdy kable grają.                          :: G d
++Już tylko dom i ogródek i tak             :: d C
++Aż do śmierci,                            :: G d
++A przecież stare żaglowce po morzach      :: d C
++Jeszcze pływają.                          :: G d
 
-Nie gniewaj się kochana,                       :: d
-Że trudno ze mną żyć                           :: a
-Że zapomniałem kupić mleko                     :: F
-I gary zmyć                                    :: A
-Bo jeszcze niedawno statek                     :: d
-Mym drugim domem był                           :: C
-Tam nie stało się w kolejkach,                 :: F
-Tam nie było miejsca dla złych.                :: A
+Nie gniewaj się kochana,                   :: d
+Że trudno ze mną żyć                       :: a
+Że zapomniałem kupić mleko                 :: F
+I gary zmyć                                :: A
+Bo jeszcze niedawno statek                 :: d
+Mym drugim domem był                       :: C
+Tam nie stało się w kolejkach,             :: F
+Tam nie było miejsca dla złych.            :: A
 
-+To wszystko było, minęło...                   :: 
++To wszystko było, minęło...               :: 
 
-Upłynie sporo czasu                            :: d
-Nim przyzwyczaję się                           :: a
-Czterdzieści lat na morzu                      :: F
-Zamknięte w jeden dzień                        :: A
-Skąd lekarz może wiedzieć,                     :: d
-Że za morzem tęskno mi                         :: C
-Że duszę się na lądzie,                        :: F
-Śni mi się pokład pełen ryb.                   :: A
+Upłynie sporo czasu                        :: d
+Nim przyzwyczaję się                       :: a
+Czterdzieści lat na morzu                  :: F
+Zamknięte w jeden dzień                    :: A
+Skąd lekarz może wiedzieć,                 :: d
+Że za morzem tęskno mi                     :: C
+Że duszę się na lądzie,                    :: F
+Śni mi się pokład pełen ryb.               :: A
 
-+To wszystko było, minęło...                   :: 
++To wszystko było, minęło...               :: 
 
-Wiem – masz do mnie żal,                       :: d
-Mieliśmy do przyjaciół iść                     :: a
-Spotkałem kolegę z rejsu,                      :: F
-On w morze wyszedł dziś                        :: A
-Siedziałem potem na kei,                       :: d
-Ze łzami patrzyłem na port                     :: C
-Jeszcze przyjdzie taki dzień,                  :: F
-Kiedy opuszczę go.                             :: A
+Wiem – masz do mnie żal,                   :: d
+Mieliśmy do przyjaciół iść                 :: a
+Spotkałem kolegę z rejsu,                  :: F
+On w morze wyszedł dziś                    :: A
+Siedziałem potem na kei,                   :: d
+Ze łzami patrzyłem na port                 :: C
+Jeszcze przyjdzie taki dzień,              :: F
+Kiedy opuszczę go.                         :: A
 
-+To wszystko było, minęło...                   :: 
++To wszystko było, minęło...               :: 

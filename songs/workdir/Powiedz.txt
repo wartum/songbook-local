@@ -1,30 +1,30 @@
-Powiedz, powiedz czemu                            :: C G
-Świat twój milczy cały blady od wzruszeń          :: a e
-Niczym słońce zaćmione przez księżyc              :: F G a
-Czekające na chwile poruszeń.                     :: F C G
+Powiedz, powiedz czemu                        :: C G
+Świat twój milczy cały blady od wzruszeń      :: a e
+Niczym słońce zaćmione przez księżyc          :: F G a
+Czekające na chwile poruszeń.                 :: F C G
 
-Powiedz, czemu pragniesz                          :: C G
-Dojrzeć w oknach świata część odległą             :: a e
-Niczym drzewo więdnące bez skargi                 :: F G a
-Czekające na deszcze z nadzieją.                  :: F C G
+Powiedz, czemu pragniesz                      :: C G
+Dojrzeć w oknach świata część odległą         :: a e
+Niczym drzewo więdnące bez skargi             :: F G a
+Czekające na deszcze z nadzieją.              :: F C G
 
-+Wstań, powiedz nie jestem sam                    :: C G
-+I nigdy więcej już nikt nie powie                :: G a
-+Sępie miłości, nie kochasz                       :: a F G
-+Ja, jestem panią mych snów                       :: C G
-+Moich marzeń i lęków                             :: G a
-+Moich straconych dni                             :: a F
-+Moich łez wylanych - łez...                      :: G C
++Wstań, powiedz nie jestem sam                :: C G
++I nigdy więcej już nikt nie powie            :: G a
++Sępie miłości, nie kochasz                   :: a F G
++Ja, jestem panią mych snów                   :: C G
++Moich marzeń i lęków                         :: G a
++Moich straconych dni                         :: a F
++Moich łez wylanych - łez...                  :: G C
 
-Proszę, Poczekajcie                               :: C G
-Sen rozpłynął się w świtu płomieniach             :: a e
-Nie chcesz chyba powrócić jak Eos                 :: F G a
-w lekkich jak motyl marzeniach...                 :: F C G
+Proszę, Poczekajcie                           :: C G
+Sen rozpłynął się w świtu płomieniach         :: a e
+Nie chcesz chyba powrócić jak Eos             :: F G a
+w lekkich jak motyl marzeniach...             :: F C G
 
-+Wstań, powiedz nie jestem sam                    :: C G
-+I nigdy więcej już nikt nie powie                :: G a
-+Sępie miłości, nie kochasz                       :: a F G
-+Ja, jestem panią mych snów                       :: C G
-+Moich marzeń i lęków                             :: G a
-+Moich straconych dni                             :: a F
-+Moich łez wylanych - łez...                      :: G C
++Wstań, powiedz nie jestem sam                :: C G
++I nigdy więcej już nikt nie powie            :: G a
++Sępie miłości, nie kochasz                   :: a F G
++Ja, jestem panią mych snów                   :: C G
++Moich marzeń i lęków                         :: G a
++Moich straconych dni                         :: a F
++Moich łez wylanych - łez...                  :: G C
