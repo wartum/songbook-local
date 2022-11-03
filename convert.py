@@ -24,19 +24,6 @@ def main():
     # Generate songbook as tex
     gen_songbook(tex_files)
 
-    # Tex to pdf
-    #system("pdflatex songbook.tex -halt-on-error")
-    #system("pdflatex songbook.tex -halt-on-error")
-
-    # Remove intermediate files
-    #for file in [f for f in listdir('.') if f[-4:] in ['.aux', '.log', '.toc', '.out']]:
-    #    remove(file)
-
-    # Push to s3
-    #system("aws s3 cp songbook.pdf s3://piewoj/songbook.pdf")
-    #system('aws s3api put-object-tagging --bucket piewoj --key songbook.pdf --tagging "TagSet={Key=public,Value=yes}"')
-
-
 def transform_txt(file_path):
     lyrics, chords = extract_lines_from_txt(file_path)
     max_lyrics_line_length = max([len(lyric) for lyric in lyrics])
