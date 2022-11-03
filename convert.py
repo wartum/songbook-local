@@ -1,4 +1,4 @@
-from os import listdir, system, remove
+from os import listdir
 import locale
 
 
