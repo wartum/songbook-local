@@ -17,7 +17,7 @@ def gen_songbook(tex_files):
     for line in inp:
         if line == '-- Songs here --\n':
             for tex_file in tex_files:
-                replacement = '\\input{songs/tex/' + tex_file + '}\n\\newpage\n'
+                replacement = f"\\input{{{TEX_DIR}{tex_file}}}\n\\newpage\n"
                 out.write(replacement)
         else:
             out.write(line)
@@ -35,7 +35,8 @@ def main():
         filepath = f"{TEX_DIR}{title_with_underscores}.tex"
         generate_tex(parser.tokens, title, filepath)
 
-    tex_files = sorted([file for file in os.listdir(TEX_DIR) if file.endswith(".tex")], key=locale.strxfrm)
+    tex_files = sorted([file for file in os.listdir(TEX_DIR)
+                        if file.endswith(".tex")], key=locale.strxfrm)
     gen_songbook(tex_files)
 
 

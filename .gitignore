@@ -6,4 +6,5 @@ songbook.pdf
 *.out
 *.toc
 .idea
-.vs 
+.vs
+.env

@@ -1,43 +1,39 @@
 from parse import LINE, VERSE_SEPARATOR, TABLE_SEPARATOR
 
-MAX_PAGE_LINES = 60
+
+begin_table = "\\begin{tabular}[t]{l l}\n"
+end_table = "\\end{tabular}\n"
+
+
+def start_song_tex(title):
+    return f"\\subsection{{{title}}}\n\n"
+
+
+def line_token_to_tex(tk):
+    if tk.refrain is True:
+        return f"    \\textbf{{{tk.lyrics}}} & {tk.chords} \\\\\n"
+    else:
+        return f"    {tk.lyrics} & {tk.chords} \\\\\n"
+
+
+def verse_separator_token_to_tex(tk):
+    return "\n    & \\\\\n\n"
+
+
+def table_separator_token_to_tex(tk):
+    return f"{end_table}{begin_table}"
 
 
 def generate_tex(tokens, title, filepath):
-    with open(filepath, "w") as out:
-        generate_single_column_tex(tokens, title, out)
-
-
-def find_page_separators(tokens):
-    if len(tokens) <= MAX_PAGE_LINES:
-        return
-
-    verse_separators = []
-    for i in range(len(tokens)):
-        if tokens[i].type == VERSE_SEPARATOR:
-            tup = (tokens[i], i)
-            verse_separators.append(tup)
-
-    previous_s = verse_separators[0]
-    for s in verse_separators[1:]:
-        if s[1] >= MAX_PAGE_LINES:
-            previous_s[0].type = TABLE_SEPARATOR
-            break
-        previous_s = s
-
-
-def generate_single_column_tex(tokens, title, fd):
-    find_page_separators(tokens)
-    fd.write(f"\\subsection{{{title}}}\n\n")
-    fd.write("\\begin{tabular}[t]{l l}\n")
+    fd = open(filepath, "w")
+    fd.write(start_song_tex(title))
+    fd.write(begin_table)
     for tk in tokens:
         if tk.type == LINE:
-            if tk.refrain is True:
-                fd.write(f"    \\textbf{{{tk.lyrics}}} & {tk.chords} \\\\\n")
-            else:
-                fd.write(f"    {tk.lyrics} & {tk.chords} \\\\\n")
+            fd.write(line_token_to_tex(tk))
         elif tk.type == VERSE_SEPARATOR:
-            fd.write("\n    & \\\\\n\n")
+            fd.write(verse_separator_token_to_tex(tk))
         elif tk.type == TABLE_SEPARATOR:
-            fd.write("\\end{tabular}\n\\begin{tabular}[t]{l l}\n")
-    fd.write("\\end{tabular}")
+            fd.write(table_separator_token_to_tex(tk))
+    fd.write(end_table)
+    fd.close()
