@@ -8,3 +8,4 @@ songbook.pdf
 .idea
 .vs
 .env
+__pycache__
